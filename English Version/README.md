@@ -254,7 +254,12 @@ Renderings: ![Renderings](https://lh6.ggpht.com/VnKUZenAozQ0KFAm5blFTGqMaKFjvX-B
 The idea of ResideMenu is from Dribbble 1 and 2 likes iOS ResideMenu   
 Project Address: https://github.com/SpecialCyCi/AndroidResideMenu    
 Renderings: ![Renderings](https://github.com/SpecialCyCi/AndroidResideMenu/raw/master/2.gif)    
-<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+
+1. FloatingActionMenu-Animation  
+Extended FloatingActionMenu lib, with custom menu icon, animation when scrolling
+Project Address: https://github.com/toanvc/FloatingActionMenu-Animation  
+Renderings: ![Renderings](https://github.com/toanvc/FloatingActionMenu-Animation/raw/master/screenshots/scale.gif)    
+<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a> 
 
 #### 4. ViewPager Gallery  
 1. Android-ViewPagerIndicator  
@@ -558,6 +563,14 @@ Renderings: <br/>
 ![LoadingDrawable](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/SceneryDrawable.gif?width=300)
 ![LoadingDrawable](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/CircleJumpDrawable.gif?width=300)
 ![LoadingDrawable](https://raw.githubusercontent.com/dinuscxj/LoadingDrawable/master/Preview/CircleRotateDrawable.gif?width=300)
+
+1. StackedHorizontalProgressBar
+Stacked dual progress indicator progressbar
+
+Project Address:https://github.com/nisrulz/stackedhorizontalprogressbar
+
+Renderings: </br>
+![Sc1](https://github.com/nisrulz/stackedhorizontalprogressbar/blob/master/img/sc1.png) 
 
 #### 8. TextView  
 include TextView and other views extend TextView, like EditText, Button, RadioButton and so on  
@@ -930,6 +943,11 @@ Document: http://sonatype.github.io/async-http-client/
 Android Asynchronous Networking and Image Loading  
 Project Address: https://github.com/koush/ion  
 Document: https://github.com/koush/ion#more-examples  
+
+1. Android Networking  
+Android Networking is a powerful library for doing any type of networking in Android Applications 
+Project Address: https://github.com/amitshekhariitbhu/AndroidNetworking  
+Document: http://amitshekhariitbhu.github.io/AndroidNetworking/  
    
 1. Http Request  
 A simple convenience library for using a HttpURLConnection to make requests and access the response.  
@@ -1160,6 +1178,10 @@ Project Address: https://github.com/alt236/Bluetooth-LE-Library---Android
 Demo Apk: https://play.google.com/store/apps/details?id=uk.co.alt236.btlescan  
 <a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
+1. Sensey   
+Android library which makes detecting gestures a breeze.  
+Project Address: https://github.com/nisrulz/sensey
+
 #### 10. Security  
 1. SQLCipher  
 SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files.  
@@ -1222,7 +1244,12 @@ Project Address: https://github.com/JakeWharton/salvage
 A Job Queue specifically written for Android to easily schedule jobs (tasks) that run in the background, improving UX and application stability.  
 Project Address: https://github.com/path/android-priority-jobqueue  
 Document: https://github.com/path/android-priority-jobqueue#getting-started  
-   
+
+1. Glide Bitmap Pool  
+Glide Bitmap Pool is a memory management library for reusing the bitmap memory
+Project Address: https://github.com/amitshekhariitbhu/GlideBitmapPool 
+Document: https://amitshekhariitbhu.github.io/GlideBitmapPool/ 
+
 1. jsoup  
 Java HTML Parser, with best of DOM, CSS, and jquery  
 Project Address: https://github.com/jhy/jsoup  
@@ -1305,6 +1332,10 @@ Project Address: https://github.com/Almeros/android-gesture-detectors
 1. CacheUtilsLibrary  
 This is a simple Android utils library to write any type of data into cache files and then read them later, using Gson to serialize and deserialize these data.  
 Project Address: https://github.com/westlinkin/CacheUtilsLibrary  
+
+1. EasyDeviceInfo  
+Android library to get device information in a super easy way.  
+Project Address: https://github.com/nisrulz/easydeviceinfo 
 
 ## 3. Excellent projects  
 Linux  
