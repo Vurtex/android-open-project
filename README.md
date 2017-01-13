@@ -302,7 +302,7 @@ Demo 地址：https://play.google.com/store/apps/details?id=com.baobomb.popuplis
 
 1. CircleRefreshLayout  
 一个包含有趣的动画的自定义下拉刷新布局  
-项目地址：https://github.com/tuesda/CircleRefreshLayout  
+项目地址：https://github.com/Vurtex/CircleRefreshLayout  
 效果图：  
 ![Renderings](https://raw.githubusercontent.com/tuesda/CircleRefreshLayout/master/gif/circlerefresh.gif)   
   
